@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure-Back-to-School-2025", "Azure-Back-to-School-2025.csproj", "{10FF78B6-7363-D976-9B0B-D90DA2AE5FFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10FF78B6-7363-D976-9B0B-D90DA2AE5FFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FF78B6-7363-D976-9B0B-D90DA2AE5FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FF78B6-7363-D976-9B0B-D90DA2AE5FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FF78B6-7363-D976-9B0B-D90DA2AE5FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A660018-E51B-4331-98A1-BBCCE7D4A8ED}
+	EndGlobalSection
+EndGlobal
